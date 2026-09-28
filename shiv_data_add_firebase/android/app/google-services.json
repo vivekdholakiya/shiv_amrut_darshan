@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006401967313",
+    "project_id": "shiv-amrut-darshan",
+    "storage_bucket": "shiv-amrut-darshan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006401967313:android:5ec2e420a966ce1f55a1f0",
+        "android_client_info": {
+          "package_name": "com.vivek.shiv.amrut.darshan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiQIW7KUD1XmNTrluDqnkv88ybyaNkZNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
